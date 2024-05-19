@@ -23,8 +23,7 @@ Here's the stack of tecnologies that I'm competent with:
 ___
 You can also find me in:\
 \
-[![bio.link badge](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](bio.link/breineralvarez)
-[![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/breineralvarez)
-
+<a href="https://bio.link/breineralvarez"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></img></a>
+<a href="https://linkedin.com/in/breineralvarez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 
 See you around🧑‍💻✌️
