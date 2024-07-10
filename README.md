@@ -6,7 +6,7 @@ You can check some of the projects that I've been working on:
 
 1. [Free Zones Analysis (Spanish)](https://app.powerbi.com/view?r=eyJrIjoiOTIzOWJmZTItYTY3OC00Yzc3LTk1ODItZDg3MGVmNzgyYjYzIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)
 2. [Northern Lights Wordcloud](https://deepnote.com/workspace/breineralvarez-ac75274b-d33b-4e15-be7a-e8b9a66ee708/project/Aurora-page-analysis-f3f77c61-5e23-4ad0-8560-71e3595908ff)
-3. 
+3. [Case Studies of Inferential Analysis](https://rpubs.com/breiner_alvarez/1203259)
 
 ___
 
